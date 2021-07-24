@@ -4,11 +4,11 @@
 
 ![Sibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SibiAkkash&count_private=true&show_icons=true&theme=radical&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SibiAkkash&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 <!--
 **SibiAkkash/SibiAkkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SibiAkkash&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 Here are some ideas to get you started:
