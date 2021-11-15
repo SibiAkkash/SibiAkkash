@@ -24,7 +24,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/39093537/138578635-baa2d226-3878-4c0e-bd73-f2b1737d20ee.png" width="400"/>
 
 ---
-![Sibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SibiAkkash&count_private=true&show_icons=true&theme=radical&hide_border=true)
+<!-- ![Sibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SibiAkkash&count_private=true&show_icons=true&theme=radical&hide_border=true) -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SibiAkkash&show_icons=true" alt="SibiAkkash"/> -->
 <!--
 **SibiAkkash/SibiAkkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
